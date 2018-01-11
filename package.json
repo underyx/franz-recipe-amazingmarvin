@@ -1,0 +1,13 @@
+{
+  "id": "amazingmarvin",
+  "name": "Amazing Marvin",
+  "version": "0.1.0",
+  "description": "Amazing Marvin Task Manager",
+  "main": "index.js",
+  "author": "Bence Nagy <bence@underyx.me>",
+  "license": "MIT",
+  "repository": "https://github.com/underyx/franz-recipe-amazingmarvin",
+  "config": {
+    "serviceURL": "https://app.amazingmarvin.com"
+  }
+}
